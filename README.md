@@ -1,7 +1,5 @@
 # Java-Project 
 
-# C++ CodSoft-Internship
-
 Hi, my name is Aditya Jain from Maharaja Surajmal Institute.
 This repository contains Java projects source codes For DevTown
 
